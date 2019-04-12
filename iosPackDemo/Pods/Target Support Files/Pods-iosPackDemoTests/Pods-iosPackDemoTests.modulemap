@@ -1,0 +1,6 @@
+framework module Pods_iosPackDemoTests {
+  umbrella header "Pods-iosPackDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
